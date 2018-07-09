@@ -1,0 +1,68 @@
+#para{
+	text-align:justify;
+	margin: 30px 600px 50px 30px;
+	font-family: Lucida Calligraphy;
+	font-weight:bold;
+	font-size: 25px;
+	border-style: outset;
+	border-width:5px;
+	border-radius: 8px;
+	padding:8px;
+	background-color:#D5DBDB;
+}
+
+marquee{
+	font-size:40px;
+	font-family:Harlow Solid;
+	color:black;
+}
+
+
+h1{
+	font-family: Harrington;
+	font-size: 50px;
+	text-align:center;
+	color:black;
+	text-decoration:underline;
+	font-weight:bold;
+}
+
+
+div h2{
+	text-align:left;
+}
+
+
+#imageright{
+	 float: right;
+}
+#imageright img{
+	display:block;
+	margin:5px;
+	border-radius:8px;
+}
+
+body{
+	background-color:#C86428;
+}
+#feedback
+{
+	text-align:center;
+	background-color:white;
+	border-style: inset;
+	border-width:5px;
+	border-radius: 8px;
+	margin: 50px 350px 50px 350px;
+	background-image:url("2beverage3_html.jpg");
+	background-repeat:no-repeat;
+	background-size:110%;
+	text-align:center;
+	font-style: normal;
+	font-size: 20px;
+	font-weight: bold;	
+}
+
+h2{
+	font-size:40px;
+	font-family: Lucida Calligraphy;
+}
